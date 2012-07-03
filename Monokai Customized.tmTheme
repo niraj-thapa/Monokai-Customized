@@ -457,7 +457,7 @@
 		   <key>settings</key>
 		   <dict>
 					<key>foreground</key>
-					<string>#657b83</string>
+					<string>#FFFFFF</string>
 		   </dict>
 		</dict>
 		<dict>
@@ -485,9 +485,6 @@
 		   </dict>
 		</dict>
 
-
-
-		
 
 	</array>
 	<key>uuid</key>
